@@ -2,8 +2,8 @@ import "@/styles/globals.css";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-	title: "Parallax Animation",
-	description: "Parallax Animation Made with ❤️ By devwithzain",
+	title: "Parallax Cards Animation",
+	description: "Parallax Cards Animation Made with ❤️ By devwithzain",
 };
 
 export default function RootLayout({

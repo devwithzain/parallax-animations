@@ -8,4 +8,4 @@
 
 # Preview
 
-<img width="100%" height="100%" src="https://github.com/user-attachments/assets/eb9af30b-b508-4b9f-a8b0-431f2ba81883" />
+<img width="100%" height="100%" src="https://github.com/user-attachments/assets/fd160eab-004d-452d-acf7-c8a6ba8335a5" />
